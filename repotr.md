@@ -20,11 +20,13 @@
 В качестве тестовых данных использовались данные, сгенерированные на сайте https://www.freeformatter.com/credit-card-number-generator-validator.html:
 
 – валидные данные
+* 6011511839652109798 (Discover)
 * 5483949074526263 (MasterCard)
 * 4532714646837547 (Visa)
 * 4539312847034036244 (Visa) 
 * 6762799566550093 (Maestro)
-* 371177276818553 (American Express) !!! bug
+* 371177276818553 (American Express)
+* 30399186798245 (Diners Club - Carte Blanche)
 
 – не валидные данные
 * 453271464683754 (короче на 1 цифру)
